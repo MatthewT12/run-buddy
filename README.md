@@ -12,3 +12,5 @@ https://matthewt12.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Matthew Tyndell
+
+### ©2019 Run Buddy, Inc.
